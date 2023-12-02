@@ -3,7 +3,7 @@
 - 👋 A senior algorithm engineer for multi-modal audio at **Tencent Music Entertainment Group**. 
 - 🔭 Extensive experience in **speech synthesis**, **singing voice synthesis**, **signal processing**, **machine learning** and **multi-modal algorithms**. 
 - 📫 Research topics are displayed on my [Google Scholar](https://scholar.google.com/citations?user=a-crUqgAAAAJ&hl=zh-CN).
-- ⚡ Contact me via the following Email: auzxb [at] foxmail [dot] com
+- ⚡ Contact me via the [Email](auzxb@foxmail.com)
 
 ### My skills
 
