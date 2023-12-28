@@ -1,6 +1,6 @@
 ### About Me
 
-[Github Page]https://auzxb.github.io/
+[Github Page](https://auzxb.github.io/)
 
 - 👋 A senior algorithm engineer for multi-modal audio at **Tencent Music Entertainment Group**. 
 - 🔭 Extensive experience in **speech synthesis**, **singing voice synthesis**, **signal processing**, **machine learning** and **multi-modal algorithms**
